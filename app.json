@@ -1,8 +1,8 @@
 {
-  "name": "MusicBot",
+  "name": "CrushMusicBot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/TheVaders/MusicBot",
+  "repository": "https://github.com/adilshiekh00/vc-crushh",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
