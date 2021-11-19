@@ -21,10 +21,10 @@ async def start(_, message: Message):
         [
             [
                 InlineKeyboardButton(
-                    "Group 💬", url="https://t.me/Its_Fuckin_Hell"
+                    "Group 💬", url="https://t.me/Crushhsupport"
                 ),
                 InlineKeyboardButton(
-                    "Channel 📣", url="https://t.me/The_HellBot"
+                    "Channel 📣", url="https://t.me/crushbottchannel"
                 )
             ]
         ]
@@ -32,7 +32,7 @@ async def start(_, message: Message):
     await message.reply_photo(
     photo=hell_pic,
     reply_markup=butts,
-    caption=hell,
+    caption=CRUSH,
 )
 
 
@@ -48,13 +48,13 @@ Happy Streaming 😉
             [
                 [
                     InlineKeyboardButton(
-                        "Repo 📑", url="https://github.com/TheVaders/vc_bot"
+                        "Repo 📑", url="https://github.com/adilshiekh00/vc-crushh"
                     ),
                     InlineKeyboardButton(
-                        "Channel 📣", url="https://t.me/The_HellBot"
+                        "Channel 📣", url="https://t.me/crushbottchannel"
                     ),
                     InlineKeyboardButton (
-                        "Tutorial 🎬", url="https://youtu.be/XaH7VHURBVg"
+                        "OWNER", url="https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR"
                     )
                 ]
             ]
